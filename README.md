@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anggitoet
-- 👀 I’m interested in FrontEnd Development and a bit BackEnd
-- 🌱 I’m currently learning JavaScript and Python
+- 👀 I’m interested in Data Analyst!
+- 🌱 I’m currently learning Python, SQL and data visualization
 - 📫 How to reach me; email me on anggileone@gmail.com
 
 <!---
